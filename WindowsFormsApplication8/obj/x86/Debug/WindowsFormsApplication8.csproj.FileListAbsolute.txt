@@ -1,0 +1,7 @@
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+c:\users\feven\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
